@@ -1,0 +1,97 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  *{
+    flex-direction: column;
+  }
+
+  body {
+    background-color: hsl(30, 54%, 90%);
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    display: flex;
+  }
+
+  .section-1 {
+    background-color: hsl(0, 0%, 100%);
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    border-radius: 20px;
+  }
+
+  .section-2 {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  img {
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    max-width: 500px;
+  }
+
+  h1 {
+    margin-left: 10px;
+    font-size: 30px;
+    margin:10px 0px;
+    font-family: 'Young Serif';font-size: 22px;
+  }
+  p {
+    font-size: 13px;
+    margin-left: 10px;
+    margin:10px 0px;
+    font-family: 'Outfit';font-size: px;
+  }
+  .section-3{
+    background-color:hsl(330, 100%, 98%);
+    height: 180px;
+    display: flex;
+    border-radius: 20px;
+  }
+  .section-3 h4{
+    font-family: sans-serif;
+    color:hsl(332, 51%, 32%);
+    margin-left: 18px;
+   }
+   .section-3 li{
+    margin-left: 23px;
+    font-family: 'Outfit';font-size: px;
+   }
+   .section-4 h4{
+    color:  hsl(14, 45%, 36%);
+    font-family: 'Young Serif';font-size: 22px;
+   }
+   .section-4 li{
+    margin-left: 18px;
+    font-family: 'Outfit';font-size: px;
+   }
+   .section-5{
+    background-color: grey;
+    height: 0.1px;
+    margin-top: 40px;
+   }
+   .section-6 h4{
+    color:  hsl(14, 45%, 36%);
+    font-family: 'Young Serif';font-size: 22px;
+   }
+   .section-6 li{
+    font-family: 'Outfit';font-size:12 px
+   }
+   .section-7{
+    margin-left: 20px;
+   }
+   .section-8 h4{
+    color:  hsl(14, 45%, 36%);
+    font-family: 'Young Serif';font-size: 22px;
+   }
